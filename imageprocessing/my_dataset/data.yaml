@@ -1,0 +1,10 @@
+path: /Users/denizcemcangoz/Desktop/my_dataset
+
+train: /Users/denizcemcangoz/Desktop/my_dataset/images/train
+val: /Users/denizcemcangoz/Desktop/my_dataset/images/train
+
+names:
+  0: sea_horse
+  1: helicopter
+  2: leopard
+  3: pyramid
